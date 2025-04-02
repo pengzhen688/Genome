@@ -1,2 +1,2 @@
 # Genome
-T2T assembly
+T2T assembly use ALLHiC
